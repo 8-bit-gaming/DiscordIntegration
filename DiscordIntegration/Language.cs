@@ -254,7 +254,7 @@ namespace DiscordIntegration
 
         public string InvalidIPAddress { get; set; } = "{0} is not a valid IP address!";
 
-        public string Redacted { get; set; } = "████████";
+        public string Redacted { get; set; } = "REDACTED";
 
         public string NotAuthenticated { get; set; } = "Not authenticated";
 
